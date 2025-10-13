@@ -1,6 +1,6 @@
 # Quantum Algorithm Simulations with Qiskit
 
-This repository contains Python simulations of foundational quantum algorithms using Qiskit:
+This repository contains Python simulations of quantum algorithms using Qiskit:
 
 - Deutsch's Algorithm
 - Deutsch-Jozsa Algorithm
